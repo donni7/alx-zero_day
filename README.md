@@ -1,1 +1,2 @@
-My first readme
+for project purpose
+
